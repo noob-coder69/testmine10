@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "2"
         
-        rig_identiier = "Rig8"
+        rig_identiier = "Rig10"
 
         
 
